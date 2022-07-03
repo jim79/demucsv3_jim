@@ -8,8 +8,9 @@ defaults:
 
 dummy:
 dset:
-  #musdb: /checkpoint/defossez/datasets/musdbhq
-  musdb: /media/joaquim/audio/musdb18hq 
+  # musdb: /checkpoint/defossez/datasets/musdbhq
+  # musdb: /media/joaquim/audio/musdb18hq
+  musdb: /content/drive/MyDrive/musdb_imf_tracks_select 
   musdb_samplerate: 44100
   wav:  # path to custom wav dataset
   segment: 11
