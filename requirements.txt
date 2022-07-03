@@ -13,5 +13,6 @@ pyyaml
 submitit
 torch>=1.8.1
 torchaudio>=0.8
+importlib-metadata==4.4.*
 tqdm
 treetable
