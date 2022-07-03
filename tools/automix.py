@@ -38,7 +38,7 @@ from demucs.wav import build_metadata, Wavset, _get_musdb_valid
 MUSDB_PATH = '/content/drive/MyDrive/musdb18hq'
 
 # EXTRA_WAV_PATH = "/checkpoint/defossez/datasets/allstems_44"
-EXTRA_WAV_PATH = "/content/drive/MyDrive/musdb_imf_tracks_196"
+EXTRA_WAV_PATH = "/content/drive/MyDrive/musdb_imf_tracks_196/train"
 # WARNING: OUTPATH will be completely erased.
 OUTPATH = Path.home() / 'tmp/demucs_mdx/automix_musdb/'
 # OUTPATH = Path.home() / '/media/joaquim/audio/automix_musdb/'
