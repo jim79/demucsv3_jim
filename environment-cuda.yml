@@ -21,4 +21,3 @@ dependencies:
     - museval>=0.4.0
     - soundfile
     - treetable>=0.2.3
-    - librosa
